@@ -11,8 +11,3 @@
 |  ----  | ----  |  ----  | ----  |
 | GO TO A WEBSITE  | https://github.com/kukudexiaoxiaomaya/goto | 无  | 正常,图标未添加 |
 | WhatZ的小窝  | https://www.cupmoexpz.tk | https://moepony.gitee.io/imgbed/g.jpg  | 正常,图标未添加 |
-常见问题
-|  问   | 答  |
-|  ----  | ----  |
-| GO TO A WEBSITE  | https://github.com/kukudexiaoxiaomaya/goto |
-| WhatZ的小窝  | https://www.cupmoexpz.tk |
